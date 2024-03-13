@@ -40,11 +40,12 @@ div#video iframe {
 }
 
 #people {
-  margin-left: 400px;
-  margin-top: 20px;
+  margin-left: 200px;
+  margin-top: 50px;
   bottom: 65px;
   left: 400px;
   width: 300px;
+  height: 300px;  
 }
 
 #car {
