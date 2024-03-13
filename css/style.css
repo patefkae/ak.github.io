@@ -434,10 +434,10 @@ div#sea {
 
   #people {
     
-    left:800px;
-    bottom:500px;
-    min-width:500px;
-    min-height:700px;
+    left:500px;
+    bottom:300px;
+    min-width:200px;
+    min-height:300px;
   }
 
   div#beach {
