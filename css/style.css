@@ -42,10 +42,8 @@ div#video iframe {
 #people {
   
   margin-top: 50px;
-  bottom: 65px;
-  left: 00px;
-  width: 500px;
-  height: 700px;  
+  min-width: 500px;
+  min-height: 700px;  
 }
 
 #car {
