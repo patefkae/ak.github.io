@@ -433,11 +433,11 @@ div#sea {
   }
 
   #people {
-    position:absolute;
-    left:auto;
-    bottom:auto;
-    width:500px;
-    height:700px;
+    
+    left:800px;
+    bottom:500px;
+    min-width:500px;
+    min-height:700px;
   }
 
   div#beach {
