@@ -44,7 +44,7 @@ div#video iframe {
   margin-top: 20px;
   bottom: 65px;
   left: 400px;
-  width: 1400px;
+  width: 300px;
 }
 
 #car {
@@ -437,8 +437,8 @@ div#sea {
     position:center;
     left:auto;
     bottom:auto;
-    width:500px;
-    miheight:700px;
+    width:200px;
+    height:200px;
   }
 
   div#beach {
