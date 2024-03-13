@@ -435,11 +435,13 @@ div#sea {
   }
 
   #people {
+    margin-top: 50px;
+    margin-left: 200px;
     position:center;
     left:auto;
     bottom:auto;
-    width:100px;
-    height:100px;
+    width:500px;
+    height:600px;
   }
 
   div#beach {
