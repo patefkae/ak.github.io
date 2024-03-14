@@ -45,7 +45,8 @@ div#video iframe {
   bottom: 65px;
   left: 400px;
   width: 620px;
-  height:900px;  
+  height:900px;
+  border-radius: 8%;  
 }
 
 #car {
