@@ -40,9 +40,9 @@ div#video iframe {
 }
 
 #people {
-  position: absolute;
+  
   bottom: 65px;
-  left: 40px;
+  left: 400px;
   width: 500px;
 }
 
