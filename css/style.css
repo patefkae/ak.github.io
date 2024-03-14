@@ -21,10 +21,10 @@ canvas#canvas {
 }
 
 div#beach {
-  background-image: url();
+  background-image: url(https://dl.dropbox.com/s/oe0oce2udq44bj5/beachsil2.png);
   /* background-size: cover; */
   background-position: bottom right;
-  background-size: 10px;
+  background-size: 1700px;
   background-repeat: no-repeat;
 }
 
@@ -40,10 +40,10 @@ div#video iframe {
 }
 
 #people {
-  
-  bottom: 150px;
-  left: 900px;
-  width: 1000px;
+  position: absolute;
+  bottom: 65px;
+  left: 40px;
+  width: 140px;
 }
 
 #car {
@@ -433,11 +433,9 @@ div#sea {
   }
 
   #people {
-    
-    left:-800px;
-    bottom:200px;
-    min-width:800px;
-    min-height:900px;
+    left: 80px;
+    bottom: 70px;
+    width: 160px;
   }
 
   div#beach {
